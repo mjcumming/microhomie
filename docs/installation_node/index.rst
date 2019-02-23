@@ -7,4 +7,4 @@ We provide some example nodes in the `microhomie-nodes <https://github.com/micro
 You can also install nodes from PyPi:
 
 >>> import upip
->>> upip.install('microhomie-nodes-dht22')
+>>> upip.install('microhomie-node-dht22')
